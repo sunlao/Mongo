@@ -1,0 +1,9 @@
+{
+  "Rep_Data_Store_PWD"  : "1u9RB1EYOykO+Vf87aGfCg==",
+  "Rep_Data_Store_USR"  : "MONGO_REP",
+  "Rep_Data_Store_Host" : "localhost",
+  "Rep_Data_Store_Port" : "1521",
+  "Rep_Data_Store_SRVR" : "xe",
+  "mongo_data_typ"      : ["dict", "float", "datetime", "int", "long", "unicode", "list", "bool", "ObjectId"],
+  "mongo_url"           : "mongodb://localhost:27017/"
+}
